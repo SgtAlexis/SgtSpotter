@@ -1,0 +1,41 @@
+<materials version="3" group="civ_female_bank_manager_1">
+	<material name="m_civ_female_bank_manager_1" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/civ_female_bank_manager_1/civ_female_bank_manager_1_df"/>
+		<bump_normal_texture file="units/payday2/characters/civ_female_bank_manager_1/civ_female_bank_manager_1_nm"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+	<material name="m_ursula_bende" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/shared_textures/ursula_bende_df"/>
+		<bump_normal_texture file="units/payday2/characters/shared_textures/ursula_bende_nm"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+	<!--
+	<material name="m_johanna_bende" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/shared_textures/johanna_bende_df"/>
+		<bump_normal_texture file="units/payday2/characters/shared_textures/johanna_bende_nm"/>
+	</material>
+	<material name="m_eyes" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/shared_textures/eye_df"/>
+		<bump_normal_texture file="units/payday2/characters/shared_textures/eye_nm"/>
+	</material>
+	-->
+	<material name="shadow_caster" render_template="shadow_caster_only:SKINNED_1WEIGHT" version="2"/>
+	<material name="m_civ_female_bank_manager_1_lod1" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/civ_female_bank_manager_1/civ_female_bank_manager_1_df" mip="1"/>
+		<bump_normal_texture file="units/payday2/characters/civ_female_bank_manager_1/civ_female_bank_manager_1_nm" mip="1"/>
+	</material>
+	<material name="m_civ_female_bank_manager_1_lod2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/civ_female_bank_manager_1/civ_female_bank_manager_1_df" mip="4"/>
+		<bump_normal_texture file="units/payday2/characters/civ_female_bank_manager_1/civ_female_bank_manager_1_nm" mip="4"/>
+	</material>
+	<material name="m_ursula_bende_lod1" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/shared_textures/ursula_bende_df" mip="1"/>
+		<bump_normal_texture file="units/payday2/characters/shared_textures/ursula_bende_nm" mip="1"/>
+	</material>
+	<material name="m_ursula_bende_lod2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CIVILIANS:SKINNED_3WEIGHTS" version="2">
+		<diffuse_texture file="units/payday2/characters/shared_textures/ursula_bende_df" mip="4"/>
+		<bump_normal_texture file="units/payday2/characters/shared_textures/ursula_bende_nm" mip="4"/>
+	</material>
+</materials>

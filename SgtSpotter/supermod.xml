@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod>
+	<assets base_path="assets/" load="startup">
+		<group name="units/payday2/" path="assets/units/payday2/">
+			<group :name="characters/civ_female_bank_manager_1/" :path="characters/civ_female_bank_manager_1/">
+				<file :name="civ_female_bank_manager_1.material_config" :path="civ_female_bank_manager_1.material_config"/>
+			</group>
+			<group :name="props/" :path="props/">
+				<group :name="com_prop_jewelry_jewels/" :path="com_prop_jewelry_jewels/">
+					<file :name="com_prop_jewelry_box.material_config" :path="com_prop_jewelry_box.material_config"/>
+				</group>
+				<group :name="str_prop_com_alarm_keycard_keypad/" :path="str_prop_com_alarm_keycard_keypad/">
+					<file :name="str_prop_com_alarm_keycard_keypad.material_config" :path="str_prop_com_alarm_keycard_keypad.material_config"/>
+				</group>
+			</group>
+		</group>
+	</assets>
+</mod>
