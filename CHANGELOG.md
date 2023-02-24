@@ -6,7 +6,7 @@
 - Remove the chat message when the alarm is disabled, which is integrated to the new [SgtBain](https://github.com/SgtAlexis/SgtBain) mod
 
 ### Notes
-- Migrate to `GitHub`
+- Migrate to _GitHub_
 
 ## v2.1.2 (2021-05-31)
 
