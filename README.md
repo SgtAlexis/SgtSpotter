@@ -1,6 +1,8 @@
 <image src="SgtSpotter/image.png" align="right" width="200"/>
 
 # Sgt. Spotter
+[![release](https://img.shields.io/github/v/release/SgtAlexis/SgtSpotter?display_name=tag)](https://github.com/SgtAlexis/SgtSpotter/releases/latest)
+
 A _PAYDAY 2_ mod to help ECM rushing the _Diamond Store_ heist by highlighting some units.
 
 ## Getting started
