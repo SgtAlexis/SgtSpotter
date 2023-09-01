@@ -1,0 +1,18 @@
+{
+	"name": "Sgt. Spotter",
+	"description": "A mod to help ECM rushing the Diamond Store heist by highlighting some units.",
+	"image": "image.png",
+	"author": "Sgt. Alexis",
+	"contact": "https://github.com/SgtAlexis",
+	"blt_version": 2,
+	"supermod_definition": "supermod.xml",
+	"version": "3.0.0",
+	"updates": [
+		{
+			"identifier": "SgtSpotter",
+			"host": {
+				"meta": "https://github.com/SgtAlexis/SgtSpotter/raw/main/meta.json",
+			},
+		},
+	],
+}
