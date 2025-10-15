@@ -1,4 +1,6 @@
-<image src="SgtSpotter/image.png" align="right" width="200"/>
+<p align="center">
+	<img src="SgtSpotter/image.png" alt="Logo" width="200"/>
+</p>
 
 # Sgt. Spotter
 [![release](https://img.shields.io/github/v/release/SgtAlexis/SgtSpotter?display_name=tag)](https://github.com/SgtAlexis/SgtSpotter/releases/latest)

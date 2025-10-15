@@ -3,7 +3,8 @@
 ## [3.0.0](https://github.com/SgtAlexis/SgtSpotter/releases/tag/v3.0.0) (2023-02-24)
 
 ### Major changes
-- Remove the chat message when the alarm is disabled, which is integrated to the new [SgtBain](https://github.com/SgtAlexis/SgtBain) mod
+- Remove the chat message when the alarm is disabled, which is integrated to the
+  new [SgtBain](https://github.com/SgtAlexis/SgtBain) mod
 
 ### Notes
 - Migrate to _GitHub_
